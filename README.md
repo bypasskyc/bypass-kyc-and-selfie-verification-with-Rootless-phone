@@ -1,2 +1,6 @@
-# dev-notes
-Small development notes and resources
+# Dev Notes
+
+Small repository for coding notes and experiments.
+
+## Community
+Telegram: https://t.me/yourchannel
