@@ -1,6 +1,10 @@
 # Bypass-KYC-and-selfie-verification-with-phone
 
+Do you want to verify your account online using Kyc bypass tool FakeCam (virtucam) ?
 
+Here we show you how you can browse online with your phone to verify you identity:
+
+Telegram: https://t.me/FcamApp
 
 New Rootless version of fakeCam (virtualCam) working on USB Cable (OBS Studio) 
 - No Root (Rootless )
@@ -10,8 +14,6 @@ New Rootless version of fakeCam (virtualCam) working on USB Cable (OBS Studio)
 - support Android 10, 11, 12, 13, 14, 15 and 16
   
 
-## Community
-Telegram: https://t.me/FcamApp
 
 
 
