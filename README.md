@@ -3,4 +3,4 @@
 Small repository for coding notes and experiments.
 
 ## Community
-Telegram: https://t.me/yourchannel
+Telegram: https://t.me/FcamApp
